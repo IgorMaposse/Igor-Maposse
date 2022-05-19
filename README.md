@@ -1,6 +1,6 @@
 # Igor-Maposse
 My Personal Repository
-Igor Maposse/README.md
+IgorMaposse/README.md
 I'm Igor Maposse - Software Developer, and Java Developer elephant.
 
 If you want to know more about me, I:
